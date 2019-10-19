@@ -107,648 +107,634 @@
 105,guru ram das nagar,7777.78
 106,mansa ram park,4907.94
 107,ramesh nagar,6542.06
-108,noida,77.17
-109,nawada uttam nagar,6177.99
-110,sector-8 dwarka,7914
-111,jamia nagar,16273.36
-112,kailash colony,9800
-113,sector 2 dwarka,13666.13
-114,khirki extension,6245.41
-115,sangam vihar,5974.82
-116,dwarka phase 2,6403.8
-117,ghitorni,5510.91
-118,safdarjung development area,9554.6
-119,munirka,15383.25
-120,krishan kunj,4000
-121,param puri,4600
-122,krishna nagar,7919.11
-123,sukhdev vihar,16114.22
-124,lajpat nagar iii,5786.62
-125,tilak nagar,7827.27
-126,dwarka sector 12,1282.67
-127,uttam nagar nanhey park,4394.34
-128,vasundhara enclave,12548.67
-129,sector-7 rohini,12545.45
-130,lajpat nagar ii,22222.22
-131,poorvi pitampura,11505.54
-132,mayur vihar,19909.45
-133,duggal colony,434.19
-134,vikas puri,12997.71
-135,jawahar park,3780.69
-136,sector-18 dwarka,11428.96
-137,vikaspuri,15251.96
-138,hauz khas enclave,22413.79
-139,south delhi,7477.94
-140,uttam nagar east,5158.16
-141,south extension,34953.84
-142,sector22 rohini,17952.04
-143,lajpat nagar iv,15176.97
-144,patparganj,15415.62
-145,govindpuri,6550.4
-146,sector 17 dwarka,10957.27
-147,rama park,5778.19
-148,anand lok,49979.18
-149,ignou road,3737.78
-150,uttam nagar subhash park extn,4897.96
-151,palam,9957.71
-152,okhla,8486.43
-153,delhi meerut expressway,11334.59
-154,ganesh nagar,6273.84
-155,safdarjung,24461.76
-156,mayur vihar phase 3,10990
-157,kiran garden,4888.89
-158,tagore garden extension,8149.27
-159,matiala,4941.14
-160,priyadarshini vihar,5849.97
-161,moti nagar,17929.32
-162,gagan vihar,976.27
-163,deoli khanpur,5967.32
-164,noida road,7810.44
-165,sector 13 rohini,20278.48
-166,greater kailash enclave ii,103591.16
-167,rohini sector 9,21925.72
-168,vishnu garden,2888.89
-169,d block vikaspuri,12357.14
-170,nanhey park new delhi,6428.57
-171,sector 11 rohini,12541.67
-172,shalimar bagh,11360.16
-173,bindapur,6574.19
-174,uttari pitampura,12848.58
-175,gautam nagar,11820.33
-176,mahipalpur,540.75
-177,sewak park,9156.31
-178,d block lane,1215.52
-179,jain colony,4809.52
-180,sector 25 rohini,7856.87
-181,shastri nagar,11133.19
-182,anand vihar,12941.36
-183,dwarka sector 13,1050.66
-184,jagdamba vihar,31424.9
-185,dilshad garden,1271.95
-186,dwarka road,10771.6
-187,tughlakabad,3228.4
-188,aya nagar,554.69
-189,new rajendra nagar,931.82
-190,sector 3 rohini,13571.43
-191,sector-24 rohini,10818.45
-192,rajouri garden,11552.01
-193,dwarka sector 19,10119.48
-194,kailash hills,129.26
-195,ashok vihar,9726.4
-196,bamnoli dwarka sector 28,599.21
-197,dwarka sector3,12407.7
-198,matiala extension,4706.67
-199,alaknanda,16648.1
-200,lalita park foot over bridge,63.58
-201,sainik nagar mansa ram park,4888.89
-202,mayur vihar phase 2,10768.05
-203,chhattarpur enclave phase1,4351.47
-204,dlf ankur vihar,6451.85
-205,sector 1 dwarka,10330.81
-206,sector-d vasant kunj,16101.29
-207,civil lines,17656.97
-208,kaushambi,7661.32
-209,tigri,12698.25
-210,sector 12 dwarka new delhi,10770.12
-211,sector 4,13884.31
-212,south ex,20631.31
-213,model town,13747.54
-214,dwarka 11 sector,10999.26
-215,govind puri,11886.11
-216,rohini sector 16,14209.67
-217,rohini sector 5,5833.33
-218,uttam nagar vani vihar,4375
-219,devli,9862.5
-220,paryavaran complex main,4250.28
-221,bamnoli sector 28 dwarka,5172.84
-222,nangloi,774.83
-223,nirman vihar,11839.1
-224,shanti park dwarka,8102.68
-225,kirti nagar,21503.17
-226,raju park,4463.84
-227,santnagar,4428.63
-228,ip extension,11762.02
-229,loni,5651.87
-230,dwarka sector 11 pocket 4,53589.26
-231,kamla nagar,293.63
-232,north campus,29831.19
-233,om vihar extn delhi,4662.86
-234,sector 12 dwarka pocket 3,10128.78
-235,sector-14 rohini,15131.02
-236,westend,7702.11
-237,ashok nagar,6884.79
-238,dabri,10802.96
-239,east delhi,12340.89
-240,pandav nagar,1457.06
-241,sheikh sarai,14514.72
-242,block j,5925.93
-243,rohini sector 24,1017.32
-244,arjun nagar,8287.29
-245,dwarka 10 sector,536.84
-246,mahavir enclave bengali colony,555.11
-247,mandawali,4646.3
-248,rama park block b,6271.6
-249,sector-8 rohini,13703.7
-250,bank enclave,1462.5
-251,jasola vihar sector 8 road,9322.82
-252,dwarka sec 6,8811.73
-253,gurgaon delhi expressway,9344.21
-254,gurudwara road,5371.54
-255,l zone delhi,4374.09
-256,mg road ghitorni,1927.29
-257,sahibabad,7497.31
-258,sector 21 dwarka,4371.43
-259,sector 15 rohini,10879.63
-260,main rajapuri road,3333.33
-261,narela,7274.73
-262,nawada extension,5555.56
-263,sadulajab,3950.62
-264,vasant kunj enclave,12156.71
-265,mansarovar garden,7121.88
-266,naraina,6666.67
-267,saraswati vihar,8357.14
-268,sector 18 dwarka new delhi,9227.84
-269,dwarka sector 7,8827.84
-270,sector 28 dwarka,4467.46
-271,sector-18 rohini,1243.7
-272,connaught place,44218.75
-273,abul fazal enclave jamia nagar,5128.21
-274,begampur park,6812.9
-275,cr park main road,16444.44
-276,geeta colony,10402.22
-277,kalindi kunj road,18218.41
-278,rajpur khurd village,6985.42
-279,karampura,15708.28
-280,chattarpur enclave,3510.8
-281,dwarka 8 sector,7444.44
-282,dwarka sec 23,8463.06
-283,fateh nagar,9411.76
-284,freedom fighters enclave,4288.07
-285,sector 18 sector 18a dwarka,10344.15
-286,shivaji marg,15741.67
-287,vijay nagar,7148.67
-288,kapashera,5486.11
-289,dwarka sub city,9509.9
-290,east patel nagar,8000
-291,nawada sainik nagar,5454.55
-292,sector 7 dwarka new delhi,10737.49
-293,indraprastha,11551.25
-294,krishna park jawahar park,3720.97
-295,mundka,3672.24
-296,sector-23 rohini,8428.82
-297,sector 16b dwarka,8516.23
-298,alaknanda dda flats road,18480.2
-299,freedom fighter enclave road,4253.41
-300,rajpur,4232.22
-301,shakarpur,6250
-302,mandi,4636.84
-303,sector 26 dwarka,5243.94
-304,mansarover garden,1000
-305,shakti nagar,22370.68
-306,som vihar,28333.33
-307,devli export enclave,3973.46
-308,hastsal,5833.33
-309,rajapuri east uttam nagar,4509.8
-310,rajinder nagar,22222.22
-311,sector 23,8605.71
-312,sector-b vasant kunj,16824.4
-313,sultanpur,4761.54
-314,tri nagar,11870.38
-315,deoli gaon nai basti,317.63
-316,gulmohar enclave,21808.71
-317,kalkaji govindpuri,9322.92
-318,khera khurd,9125
-319,manglapuri,9453.97
-320,panchsheel vihar,4814.81
-321,sector 19b,15555.34
-322,sector 29 dwarka,4528.44
-323,sector 9 rohini,22768.67
-324,shahpur jat,7333.33
-325,bakkarwala,7500
-326,bank colony,3160.49
-327,kotla mubarakpur,19978.63
-328,malka ganj,77564.1
-329,razapur khurd,4540.28
-330,vasant kunj marg,15449.02
-331,vivek vihar,11733.09
-332,bank colony deoli,2888.89
-333,bhagwati garden,4670
-334,gharoli,10487.18
-335,kalkaji extension,10735.93
-336,karkardooma,7458.85
-337,noida sector 52,6371.58
-338,sudarshan park,11158.02
-339,chirag delhi,11406.25
-340,d k road,11309.94
-341,dwarka sector 9,10563.29
-342,madhu vihar,11541.67
-343,munirka vihar,14117.65
-344,pocket 2 sector 6 dwarka,10415.58
-345,zakir nagar,4916.67
-346,gujranwala town,10146.1
-347,kalyan vihar,3589.74
-348,pipal wala road,4612.04
-349,sector 19,12156.18
-350,south anarkali delhi,11111.11
-351,sunlight colony,6857.14
-352,ashok vihar phase-1,8641.98
-353,dwarka sector 17,8658.35
-354,inderpuri,661.4
-355,old delhi,10747.13
-356,sector 4 rohini,9500
-357,vinod nagar north,5776.38
-358,wea,18607.86
-359,alaknanda gangotri enclave,14507.67
-360,ashram,14973.26
-361,baljeet nagar,2921.35
-362,budh vihar,2555.56
-363,devli nai basti,416.67
-364,govindpura,5873.02
-365,gurgaon faridabad road,6126.01
-366,kalkaji main,14000
-367,roop nagar,27247.96
-368,sirifort road,38888.89
-369,subhash park extn new delhi,4400
-370,vishwas park extn uttam nagar,3500
-371,wazirabad,4117.65
-372,babarpur,7222.22
-373,bali nagar,4444.44
-374,bamnoli,735.29
-375,bhalswa,3461.54
-376,dda flat,9622.96
-377,dwarka sector 11 pocket 3,5630.64
-378,e 2 vasant kunj,5641.03
-379,madangir,441.92
-380,masjid moth,14571.43
-381,mathura road sarita vihar,9105.22
-382,meera bagh,8346.59
-383,netaji subhash place,20357.14
-384,new kondli,1087.99
-385,sector 11 dwarka pocket 2,8394.06
-386,sector 15a,18636.36
-387,swasthya vihar,14204.55
-388,abul fazal enclave,3466.67
-389,central secretariat,16216.22
-390,delhi apartments,1152.93
-391,derawal nagar,8171.6
-392,dwarka sector 12 pocket 4,9145.82
-393,dwarka sector 16 main road,8284.02
-394,paschim vihar main,10952.38
-395,sector 6 dwarka palam vihar,11319.5
-396,sushant lok delhi,3459.87
-397,vinod nagar east,474.07
-398,10 sector dwarka,8200.93
-399,b k dutt colony,21912.35
-400,bhagwati vihar,2888.89
-401,block a,11785.71
-402,delhi ajmer expressway,8208.33
-403,jagriti enclave shreshtha vihar,20790.44
-404,kundli,5177.13
-405,loknayak puram,5765.43
-406,mansarovar park,7849.56
-407,mayur vihar iii,810.86
-408,okhla vihar,4888.89
-409,ranjeet nagar,10909.09
-410,shyam vihar phase1,4637.25
-411,anupam garden 10th lane,9523.81
-412,bhiwadi,3696.78
-413,block a1 chattarpur,3750
-414,c block janakpuri road,11313.32
-415,dcm road,35115.7
-416,deepali,7393.76
-417,delhi jaipur expressway,14122.11
-418,dilshad colony,8714.29
-419,dwarka sector 15,8216.37
-420,kakrola,6296.3
-421,kalu sarai,25713.38
-422,kishangarh mehrauli road,5555.56
-423,mahipalpur extension,4843.21
-424,nasirpur,8892.86
-425,navin shahdara,9565.22
-426,sarai rohilla,3157.89
-427,sector 111,10260.67
-428,sector 8 dwarka block b,10526.32
-429,sector-28 rohini,5798.52
-430,sector24,10142.86
-431,sectorb vasant kunj,14285.71
-432,sewa nagar,6166.67
-433,shakurpur,2471.91
-434,shadipur,20636.36
-435,aerocity,4391.01
-436,bharat vihar,4383.33
-437,chitra vihar,11877.01
-438,defence colony flyover,53722.18
-439,delhi cantonment,8437.5
-440,delhi jaipur highway,211.9
-441,duggal housing complex,3871.83
-442,ferozshah road,2558.82
-443,karala,3424.66
-444,mansa ram park park path,3500
-445,pochanpur colony,6263.89
-446,sadar bazaar,5166.93
-447,sector 103,4526.7
-448,sector 37 rohini,3000
-449,sector 9,13750
-450,sheikh sarai phase2 new delhi,12513.91
-451,sonia vihar,2545.45
-452,south patel nagar,13333.33
-453,vasant enclave,13221.54
-454,vasant vihar c block,40000
-455,batla house new delhi,376.92
-456,block ap poorvi pitampura,13257.08
-457,chandni chowk,8230.45
-458,fatehpurberi,8869.05
-459,govindpuri extension new delhi,4166.67
-460,ishwar nagar,11666.67
-461,jahangir puri,6709.35
-462,khanpur colony,4100
-463,naharpur village,2777.78
-464,pankha road,6000
-465,pocket 7 dwarka sector 12,8536.63
-466,sector 11,9190.97
-467,sector 12,13166.78
-468,sector c vasant kunj,40625
-469,sitapuri,4444.44
-470,sonepat,3390.63
-471,surajmal vihar,21666.67
-472,ali village,6976.74
-473,burari garhi,4817.3
-474,ca apartments,109.74
-475,chandra park,3902.11
-476,daryaganj,9272.73
-477,freedom fighter vihar,5000
-478,gazipur,10540.11
-479,hauz rani,3571.43
-480,hill view,18416.67
-481,kanjhawla,3471.55
-482,karawal nagar,2666.67
-483,mehrauli village,3870.36
-484,munirka kunj main road,1395.24
-485,palam vihar,9152.54
-486,r k puram,29411.76
-487,ram nagar extension,5555.56
-488,rithala,4550
-489,sector 10,8919.76
-490,sector 4 road,1017.2
-491,sector 6,7889
-492,sector-16 dwarka,4250
-493,sector-19 rohini,11531.25
-494,sector-21 rohini,7865.38
-495,sfs flats saket,13571.43
-496,sidharth ext,12727.27
-497,sultanpur extension,3969.7
-498,10 dwaraka marg,8428.9
-499,59 sector 22 road,12975.78
-500,a1 block paschim vihar delhi,10952.38
-501,bamnoli village delhi,5000
-502,block j rajouri garden extension,12923.08
-503,budh nagar,7777.78
-504,dhul siras,4375
-505,dlf phase 5,12375.48
-506,dps matiyala,8750.75
-507,dr ambedkar colony,4666.67
-508,govindpura old,6112.91
-509,hailey road,43243.24
-510,katwaria sarai,8125
-511,masjid moth village,7000
-512,masoodpur,14629.63
-513,maya enclave,8771.65
-514,new layal pur,5000
-515,peeragarhi village,592.07
-516,rajiv chowk,11000
-517,residential floorsector,13137.79
-518,sarojini nagar,4526.75
-519,sector 18,11183.57
-520,sector 8b,13240.74
-521,shreshtha vihar,12444.44
-522,shyam enclave,5555.56
-523,surhera,4300
-524,vishal enclave,3724.14
-525,82 sector 22 road,5462.17
-526,85 sector 22 road,5720
-527,akshardham,23171.14
-528,ambica vihar,9615.38
-529,ashirwad,8750
-530,azad apartments,25000
-531,baldev park east,7812.5
-532,bees sutri harijan basti,1583.33
-533,ber sarai,18750
-534,cd block dakshini pitampura,25000
-535,dcm school marg,6478.21
-536,devli extention,2430.56
-537,devli extention deoli gaon nai basti,3143.6
-538,dlf city phase 3 road,315.83
-539,ghitorni village south delhi,17500
-540,gt road,1441.49
-541,gulab bagh,566.67
-542,igi airport,4826.07
-543,jasola sector 8,10833.33
-544,kalkaji flyover,12534.18
-545,kalyan puri road,4920.63
-546,keshavpuram,8333.33
-547,khushi ram park param puri,5000
-548,kishangarh village new delhi,5617.98
-549,lodhi colony,12000
-550,manglapuri village,36638.98
-551,mathura road,13750
-552,mayur vihar pocket f,47435.48
-553,mianwali nagar peera garhi,10400
-554,mirpur turk,4483.43
-555,moti bagh south,4545.45
-556,munirka flyover,10296.3
-557,munirka marg,11273.33
-558,pant nagar,3264.76
-559,pind wala khurd village,65573.77
-560,pocket 7 sector d,11764.71
-561,pocket 8 sector c,16666.67
-562,pratap khand,6209.15
-563,sadh nagar palam colony,3823.53
-564,sandesh vihar,18518.52
-565,sector 108,5624.3
-566,sector 16a dwarka,6269.59
-567,sector 5,8758.77
-568,sector 7,9485.71
-569,sector b pocket 10,1947.62
-570,sector17 rohini,7995.09
-571,shaheen bagh new delhi,4896.42
-572,vrindavan road,4468.12
-573,west enclave,10752.68
-574,yamuna road,10505.63
-575,delhi cantt,527.04
-576,102 sector 21 road,3389.42
-577,127 sector 23 road,13745.7
-578,91 sector 23 road,41.07
-579,abul fazal enclave part 2 new delhi,4555.56
-580,akshardham road,20340.95
-581,antriksh bhawan,3542.37
-582,block jp poorvi pitampura,9988.01
-583,block uu uttari pitampura,7781.65
-584,chirag dilli,3500
-585,commercial shop karol bagh,16650
-586,commonwealth games village,15476.19
-587,e block preet vihar,13263.42
-588,experion heartsong,6303.13
-589,gulabhi bagh om vihar,3600
-590,gurgaon dabri road,4585.51
-591,jammu delhi road,6250
-592,janakpuri b1 market,9444.44
-593,kapas hera extension,1866.67
-594,karampura west,13513.51
-595,kg 2 road,8801.96
-596,kundli manesar palwal expressway,53125
-597,lig flats,8819.93
-598,mandakini enclave,16388.89
-599,mandi road,5800
-600,mount kailash apartment,18333.33
-601,narmada apartments,13462.57
-602,netaji subash marg,7826.09
-603,noor nagar,4266.67
-604,partap nagar,5000
-605,paschim vihar a 1 block,8300
-606,pocket 11 sector b,16000
-607,pocket 2 sector d,13365.38
-608,pocket 9 sector c,16666.67
-609,residential flat mehrauli,3370.79
-610,rishi nagar,6222.22
-611,saiyad ul ajaib village,3777.78
-612,salempur majra,18750
-613,sector 1,8674.1
-614,sector 10 pocket 1,7250
-615,sector 12 dwarka pocket 2,8000
-616,sector 21 road,5263.16
-617,sector 30,4603.58
-618,sector4pkt 1,9233.81
-619,shahabad mohammadpur,4266.67
-620,shankar vihar,12306.61
-621,subzi mandi,4784.69
-622,ujwa,4200
-623,10 dwarka sector 9 road,8493.15
-624,103 sector 21 road,9565.22
-625,103 sector road,5136.99
-626,109 sector 21 road,5611.92
-627,119 sector 6 road,4137.93
-628,137 sector 13 main road,6383.95
-629,144 sector b road,2592.59
-630,22 sector 13 main road,12500
-631,4 dwarka sector 9 road,7123.44
-632,4 sector 4 road,11562.5
-633,6 sector 13 main road,8529.41
-634,65 sector road,10255.13
-635,78 sector 6 road,4790.07
-636,79 noida link road,3998.71
-637,88 sector 22 road,4837.43
-638,89 sector 22 road,10500
-639,a block road,11785.71
-640,ahinsa vihar road,4642.86
-641,b4 block,11764.71
-642,baprola,10952.38
-643,bhagat chandra hospital,6800
-644,bhagwati garden extension,4100
-645,bharthal,2285.71
-646,block gh5,7333.33
-647,block ld dakshini pitampura,16666.67
-648,block sd delhi,7588.24
-649,commercial shop indra park,29761.9
-650,d b gupta road,15428.57
-651,d3 street,23333.33
-652,dda flats,18888.89
-653,delhi haridwar road,4363.64
-654,delhi metro blue line,10454.55
-655,desh bandhu gupta marg,11125
-656,dilshad colony new simapuri,12241.05
-657,durga vihar new delhi,3571.43
-658,dwarka 29 sector,3975.63
-659,dwarka flyover,9714.29
-660,dwarka sec 21,3800
-661,dwarka sec3,8333.33
-662,dwarka sec6 market,8857.14
-663,dwarka sector 12 pocket 6,7500
-664,dwarka sector 23 pocket 1,10584.62
-665,dwarka sector 25,3800
-666,dwarka sector 9 road,9250
-667,epdp colony,7764.71
-668,fajalpur village,11000
-669,gharoli dairy farm,10464.43
-670,godavari apartments,11764.71
-671,goyla vihar,13888.89
-672,grand trunk road,1582.8
-673,ignou road sainik farm,2962.96
-674,inder enclave,10344.83
-675,jagdamba camp,11111.11
-676,kapas hera estate,3200
-677,khanpur dhani,8431.37
-678,khari baoli,4878.05
-679,khari baoli road,2808.4
-680,kondali main,5625
-681,link road ip extension,5483.87
-682,lodhi road quarters,9523.81
-683,mahaveer nagar kotla mubarakpur,24429.97
-684,mahipalpur rangpuri road,2820.51
-685,mahrauli,3518.52
-686,masjid moth phase 2,10769.23
-687,meenakshi garden,12213.74
-688,nangloi saiyed village,5491.7
-689,nathupur road,10000
-690,nelson mandela marg,20000
-691,new govindpura,6666.67
-692,new krishna nagar,5000
-693,new pragatesheel apartment,7586.21
-694,northern peripheral road,6372.09
-695,om vihar extn om vihar,4943.75
-696,om vihar phase 4,4750
-697,paryatan vihar,9671.18
-698,pocket 10 sector b,18000
-699,pocket 6 sector 2,12500
-700,pocket 9,16250
-701,pocket 9 sector b,8181.82
-702,pocket a sector 17 dwarka,8181.82
-703,police lines,18181.82
-704,pontoon bridge,80000
-705,prime chowk,8823.53
-706,puth khurd village,3428.57
-707,ram colony chattarpur,5555.56
-708,rampura marg,9259.26
-709,residential flat dharam pura,3259.81
-710,residential flat east of kailash,11555.56
-711,residential flat pocket a,2800
-712,residential flat pocket d,2777.78
-713,residential flat uttam nagar,3777.78
-714,residential floor drayaganj,5149.79
-715,residential floor east ram nagar,5288.16
-716,residential floor om vihar,3442.13
-717,residential floor ram nagar,3790.38
-718,residential floor tilak nagar,4582.82
-719,residential floor uttam nagar,4382.47
-720,residential floorblocka sector,841.24
-721,residential floorpaschim vihar,8131.84
-722,residential house uttam nagar,2812.5
-723,road number 1,6646.97
-724,rocky area,3333.33
-725,sagarpur palam road,22222.22
-726,sec 6 pocket 1,8750
-727,sector 112,3188.01
-728,sector 12 pocket 7,8166.67
-729,sector 13,8750
-730,sector 17,8421.05
-731,sector 18 a,7500
-732,sector 18 rohini,8947.37
-733,sector 18b road,9642.86
-734,sector 21,4200
-735,sector 21 dwarka new delhi,8452.38
-736,sector 23 road,9393.94
-737,sector 25 dwarka,4368.42
-738,sector 37,5241.64
-739,sector b,17142.86
-740,shankar garden,10540.54
-741,sheikh sarai inner lane,16206.9
-742,siddharth enclave,12500
-743,siddhartha enclave,11818.18
-744,siddhartha extension,9200
-745,suraj vihar,5625
-746,sushant vihar,3499.69
-747,telibara,5333.33
-748,timarpur,916.39
-749,v e e r apartments road,8387.1
-750,vasant enclave road,12000
-751,vijay mandal enclave,12500
-752,vikaspuri flyover,7222.22
+108,nawada uttam nagar,6177.99
+109,sector-8 dwarka,7914
+110,jamia nagar,16273.36
+111,kailash colony,9800
+112,sector 2 dwarka,13666.13
+113,khirki extension,6245.41
+114,sangam vihar,5974.82
+115,dwarka phase 2,6403.8
+116,ghitorni,5510.91
+117,safdarjung development area,9554.6
+118,munirka,15383.25
+119,krishan kunj,4000
+120,param puri,4600
+121,krishna nagar,7919.11
+122,sukhdev vihar,16114.22
+123,lajpat nagar iii,5786.62
+124,tilak nagar,7827.27
+125,dwarka sector 12,1282.67
+126,uttam nagar nanhey park,4394.34
+127,vasundhara enclave,12548.67
+128,sector-7 rohini,12545.45
+129,lajpat nagar ii,22222.22
+130,poorvi pitampura,11505.54
+131,mayur vihar,19909.45
+132,duggal colony,434.19
+133,vikas puri,12997.71
+134,jawahar park,3780.69
+135,sector-18 dwarka,11428.96
+136,vikaspuri,15251.96
+137,hauz khas enclave,22413.79
+138,south delhi,7477.94
+139,uttam nagar east,5158.16
+140,south extension,34953.84
+141,sector22 rohini,17952.04
+142,lajpat nagar iv,15176.97
+143,patparganj,15415.62
+144,govindpuri,6550.4
+145,sector 17 dwarka,10957.27
+146,rama park,5778.19
+147,anand lok,49979.18
+148,ignou road,3737.78
+149,uttam nagar subhash park extn,4897.96
+150,palam,9957.71
+151,okhla,8486.43
+152,ganesh nagar,6273.84
+153,safdarjung,24461.76
+154,mayur vihar phase 3,10990
+155,kiran garden,4888.89
+156,tagore garden extension,8149.27
+157,matiala,4941.14
+158,priyadarshini vihar,5849.97
+159,moti nagar,17929.32
+160,gagan vihar,976.27
+161,deoli khanpur,5967.32
+162,sector 13 rohini,20278.48
+163,greater kailash enclave ii,103591.16
+164,rohini sector 9,21925.72
+165,vishnu garden,2888.89
+166,d block vikaspuri,12357.14
+167,nanhey park new delhi,6428.57
+168,sector 11 rohini,12541.67
+169,shalimar bagh,11360.16
+170,bindapur,6574.19
+171,uttari pitampura,12848.58
+172,gautam nagar,11820.33
+173,mahipalpur,540.75
+174,sewak park,9156.31
+175,d block lane,1215.52
+176,jain colony,4809.52
+177,sector 25 rohini,7856.87
+178,shastri nagar,11133.19
+179,anand vihar,12941.36
+180,dwarka sector 13,1050.66
+181,jagdamba vihar,31424.9
+182,dilshad garden,1271.95
+183,dwarka road,10771.6
+184,tughlakabad,3228.4
+185,aya nagar,554.69
+186,new rajendra nagar,931.82
+187,sector 3 rohini,13571.43
+188,sector-24 rohini,10818.45
+189,rajouri garden,11552.01
+190,dwarka sector 19,10119.48
+191,kailash hills,129.26
+192,ashok vihar,9726.4
+193,bamnoli dwarka sector 28,599.21
+194,dwarka sector3,12407.7
+195,matiala extension,4706.67
+196,alaknanda,16648.1
+197,lalita park foot over bridge,63.58
+198,sainik nagar mansa ram park,4888.89
+199,mayur vihar phase 2,10768.05
+200,chhattarpur enclave phase1,4351.47
+201,dlf ankur vihar,6451.85
+202,sector 1 dwarka,10330.81
+203,sector-d vasant kunj,16101.29
+204,civil lines,17656.97
+205,kaushambi,7661.32
+206,tigri,12698.25
+207,sector 12 dwarka new delhi,10770.12
+208,sector 4,13884.31
+209,south ex,20631.31
+210,model town,13747.54
+211,dwarka 11 sector,10999.26
+212,govind puri,11886.11
+213,rohini sector 16,14209.67
+214,rohini sector 5,5833.33
+215,uttam nagar vani vihar,4375
+216,devli,9862.5
+217,paryavaran complex main,4250.28
+218,bamnoli sector 28 dwarka,5172.84
+219,nangloi,774.83
+220,nirman vihar,11839.1
+221,shanti park dwarka,8102.68
+222,kirti nagar,21503.17
+223,raju park,4463.84
+224,santnagar,4428.63
+225,ip extension,11762.02
+226,loni,5651.87
+227,dwarka sector 11 pocket 4,53589.26
+228,kamla nagar,293.63
+229,north campus,29831.19
+230,om vihar extn delhi,4662.86
+231,sector 12 dwarka pocket 3,10128.78
+232,sector-14 rohini,15131.02
+233,westend,7702.11
+234,ashok nagar,6884.79
+235,dabri,10802.96
+236,east delhi,12340.89
+237,pandav nagar,1457.06
+238,sheikh sarai,14514.72
+239,block j,5925.93
+240,rohini sector 24,1017.32
+241,arjun nagar,8287.29
+242,dwarka 10 sector,536.84
+243,mahavir enclave bengali colony,555.11
+244,mandawali,4646.3
+245,rama park block b,6271.6
+246,sector-8 rohini,13703.7
+247,bank enclave,1462.5
+248,jasola vihar sector 8 road,9322.82
+249,dwarka sec 6,8811.73
+250,gurudwara road,5371.54
+251,l zone delhi,4374.09
+252,mg road ghitorni,1927.29
+253,sahibabad,7497.31
+254,sector 21 dwarka,4371.43
+255,sector 15 rohini,10879.63
+256,main rajapuri road,3333.33
+257,narela,7274.73
+258,nawada extension,5555.56
+259,sadulajab,3950.62
+260,vasant kunj enclave,12156.71
+261,mansarovar garden,7121.88
+262,naraina,6666.67
+263,saraswati vihar,8357.14
+264,sector 18 dwarka new delhi,9227.84
+265,dwarka sector 7,8827.84
+266,sector 28 dwarka,4467.46
+267,sector-18 rohini,1243.7
+268,connaught place,44218.75
+269,abul fazal enclave jamia nagar,5128.21
+270,begampur park,6812.9
+271,cr park main road,16444.44
+272,geeta colony,10402.22
+273,kalindi kunj road,18218.41
+274,rajpur khurd village,6985.42
+275,karampura,15708.28
+276,chattarpur enclave,3510.8
+277,dwarka 8 sector,7444.44
+278,dwarka sec 23,8463.06
+279,fateh nagar,9411.76
+280,freedom fighters enclave,4288.07
+281,sector 18 sector 18a dwarka,10344.15
+282,shivaji marg,15741.67
+283,vijay nagar,7148.67
+284,kapashera,5486.11
+285,dwarka sub city,9509.9
+286,east patel nagar,8000
+287,nawada sainik nagar,5454.55
+288,sector 7 dwarka new delhi,10737.49
+289,indraprastha,11551.25
+290,krishna park jawahar park,3720.97
+291,mundka,3672.24
+292,sector-23 rohini,8428.82
+293,sector 16b dwarka,8516.23
+294,alaknanda dda flats road,18480.2
+295,freedom fighter enclave road,4253.41
+296,rajpur,4232.22
+297,shakarpur,6250
+298,mandi,4636.84
+299,sector 26 dwarka,5243.94
+300,mansarover garden,1000
+301,shakti nagar,22370.68
+302,som vihar,28333.33
+303,devli export enclave,3973.46
+304,hastsal,5833.33
+305,rajapuri east uttam nagar,4509.8
+306,rajinder nagar,22222.22
+307,sector 23,8605.71
+308,sector-b vasant kunj,16824.4
+309,sultanpur,4761.54
+310,tri nagar,11870.38
+311,deoli gaon nai basti,317.63
+312,gulmohar enclave,21808.71
+313,kalkaji govindpuri,9322.92
+314,khera khurd,9125
+315,manglapuri,9453.97
+316,panchsheel vihar,4814.81
+317,sector 19b,15555.34
+318,sector 29 dwarka,4528.44
+319,sector 9 rohini,22768.67
+320,shahpur jat,7333.33
+321,bakkarwala,7500
+322,bank colony,3160.49
+323,kotla mubarakpur,19978.63
+324,malka ganj,77564.1
+325,razapur khurd,4540.28
+326,vasant kunj marg,15449.02
+327,vivek vihar,11733.09
+328,bank colony deoli,2888.89
+329,bhagwati garden,4670
+330,gharoli,10487.18
+331,kalkaji extension,10735.93
+332,karkardooma,7458.85
+333,sudarshan park,11158.02
+334,chirag delhi,11406.25
+335,d k road,11309.94
+336,dwarka sector 9,10563.29
+337,madhu vihar,11541.67
+338,munirka vihar,14117.65
+339,pocket 2 sector 6 dwarka,10415.58
+340,zakir nagar,4916.67
+341,gujranwala town,10146.1
+342,kalyan vihar,3589.74
+343,pipal wala road,4612.04
+344,sector 19,12156.18
+345,south anarkali delhi,11111.11
+346,sunlight colony,6857.14
+347,ashok vihar phase-1,8641.98
+348,dwarka sector 17,8658.35
+349,inderpuri,661.4
+350,old delhi,10747.13
+351,sector 4 rohini,9500
+352,vinod nagar north,5776.38
+353,wea,18607.86
+354,alaknanda gangotri enclave,14507.67
+355,ashram,14973.26
+356,baljeet nagar,2921.35
+357,budh vihar,2555.56
+358,devli nai basti,416.67
+359,govindpura,5873.02
+360,kalkaji main,14000
+361,roop nagar,27247.96
+362,sirifort road,38888.89
+363,subhash park extn new delhi,4400
+364,vishwas park extn uttam nagar,3500
+365,wazirabad,4117.65
+366,babarpur,7222.22
+367,bali nagar,4444.44
+368,bamnoli,735.29
+369,bhalswa,3461.54
+370,dda flat,9622.96
+371,dwarka sector 11 pocket 3,5630.64
+372,e 2 vasant kunj,5641.03
+373,madangir,441.92
+374,masjid moth,14571.43
+375,mathura road sarita vihar,9105.22
+376,meera bagh,8346.59
+377,netaji subhash place,20357.14
+378,new kondli,1087.99
+379,sector 11 dwarka pocket 2,8394.06
+380,sector 15a,18636.36
+381,swasthya vihar,14204.55
+382,abul fazal enclave,3466.67
+383,central secretariat,16216.22
+384,delhi apartments,1152.93
+385,derawal nagar,8171.6
+386,dwarka sector 12 pocket 4,9145.82
+387,dwarka sector 16 main road,8284.02
+388,paschim vihar main,10952.38
+389,sector 6 dwarka palam vihar,11319.5
+390,sushant lok delhi,3459.87
+391,vinod nagar east,474.07
+392,10 sector dwarka,8200.93
+393,b k dutt colony,21912.35
+394,bhagwati vihar,2888.89
+395,block a,11785.71
+396,jagriti enclave shreshtha vihar,20790.44
+397,kundli,5177.13
+398,loknayak puram,5765.43
+399,mansarovar park,7849.56
+400,mayur vihar iii,810.86
+401,okhla vihar,4888.89
+402,ranjeet nagar,10909.09
+403,shyam vihar phase1,4637.25
+404,anupam garden 10th lane,9523.81
+405,bhiwadi,3696.78
+406,block a1 chattarpur,3750
+407,c block janakpuri road,11313.32
+408,dcm road,35115.7
+409,deepali,7393.76
+410,dilshad colony,8714.29
+411,dwarka sector 15,8216.37
+412,kakrola,6296.3
+413,kalu sarai,25713.38
+414,kishangarh mehrauli road,5555.56
+415,mahipalpur extension,4843.21
+416,nasirpur,8892.86
+417,navin shahdara,9565.22
+418,sarai rohilla,3157.89
+419,sector 111,10260.67
+420,sector 8 dwarka block b,10526.32
+421,sector-28 rohini,5798.52
+422,sector24,10142.86
+423,sectorb vasant kunj,14285.71
+424,sewa nagar,6166.67
+425,shakurpur,2471.91
+426,shadipur,20636.36
+427,aerocity,4391.01
+428,bharat vihar,4383.33
+429,chitra vihar,11877.01
+430,defence colony flyover,53722.18
+431,delhi cantonment,8437.5
+432,duggal housing complex,3871.83
+433,ferozshah road,2558.82
+434,karala,3424.66
+435,mansa ram park park path,3500
+436,pochanpur colony,6263.89
+437,sadar bazaar,5166.93
+438,sector 103,4526.7
+439,sector 37 rohini,3000
+440,sector 9,13750
+441,sheikh sarai phase2 new delhi,12513.91
+442,sonia vihar,2545.45
+443,south patel nagar,13333.33
+444,vasant enclave,13221.54
+445,vasant vihar c block,40000
+446,batla house new delhi,376.92
+447,block ap poorvi pitampura,13257.08
+448,chandni chowk,8230.45
+449,fatehpurberi,8869.05
+450,govindpuri extension new delhi,4166.67
+451,ishwar nagar,11666.67
+452,jahangir puri,6709.35
+453,khanpur colony,4100
+454,naharpur village,2777.78
+455,pankha road,6000
+456,pocket 7 dwarka sector 12,8536.63
+457,sector 11,9190.97
+458,sector 12,13166.78
+459,sector c vasant kunj,40625
+460,sitapuri,4444.44
+461,sonepat,3390.63
+462,surajmal vihar,21666.67
+463,ali village,6976.74
+464,burari garhi,4817.3
+465,ca apartments,109.74
+466,chandra park,3902.11
+467,daryaganj,9272.73
+468,freedom fighter vihar,5000
+469,gazipur,10540.11
+470,hauz rani,3571.43
+471,hill view,18416.67
+472,kanjhawla,3471.55
+473,karawal nagar,2666.67
+474,mehrauli village,3870.36
+475,munirka kunj main road,1395.24
+476,palam vihar,9152.54
+477,r k puram,29411.76
+478,ram nagar extension,5555.56
+479,rithala,4550
+480,sector 10,8919.76
+481,sector 4 road,1017.2
+482,sector 6,7889
+483,sector-16 dwarka,4250
+484,sector-19 rohini,11531.25
+485,sector-21 rohini,7865.38
+486,sfs flats saket,13571.43
+487,sidharth ext,12727.27
+488,sultanpur extension,3969.7
+489,10 dwaraka marg,8428.9
+490,59 sector 22 road,12975.78
+491,a1 block paschim vihar delhi,10952.38
+492,bamnoli village delhi,5000
+493,block j rajouri garden extension,12923.08
+494,budh nagar,7777.78
+495,dhul siras,4375
+496,dlf phase 5,12375.48
+497,dps matiyala,8750.75
+498,dr ambedkar colony,4666.67
+499,govindpura old,6112.91
+500,hailey road,43243.24
+501,katwaria sarai,8125
+502,masjid moth village,7000
+503,masoodpur,14629.63
+504,maya enclave,8771.65
+505,new layal pur,5000
+506,peeragarhi village,592.07
+507,rajiv chowk,11000
+508,residential floorsector,13137.79
+509,sarojini nagar,4526.75
+510,sector 18,11183.57
+511,sector 8b,13240.74
+512,shreshtha vihar,12444.44
+513,shyam enclave,5555.56
+514,surhera,4300
+515,vishal enclave,3724.14
+516,82 sector 22 road,5462.17
+517,85 sector 22 road,5720
+518,akshardham,23171.14
+519,ambica vihar,9615.38
+520,ashirwad,8750
+521,azad apartments,25000
+522,baldev park east,7812.5
+523,bees sutri harijan basti,1583.33
+524,ber sarai,18750
+525,cd block dakshini pitampura,25000
+526,dcm school marg,6478.21
+527,devli extention,2430.56
+528,devli extention deoli gaon nai basti,3143.6
+529,dlf city phase 3 road,315.83
+530,ghitorni village south delhi,17500
+531,gt road,1441.49
+532,gulab bagh,566.67
+533,igi airport,4826.07
+534,jasola sector 8,10833.33
+535,kalkaji flyover,12534.18
+536,kalyan puri road,4920.63
+537,keshavpuram,8333.33
+538,khushi ram park param puri,5000
+539,kishangarh village new delhi,5617.98
+540,lodhi colony,12000
+541,manglapuri village,36638.98
+542,mathura road,13750
+543,mayur vihar pocket f,47435.48
+544,mianwali nagar peera garhi,10400
+545,mirpur turk,4483.43
+546,moti bagh south,4545.45
+547,munirka flyover,10296.3
+548,munirka marg,11273.33
+549,pant nagar,3264.76
+550,pind wala khurd village,65573.77
+551,pocket 7 sector d,11764.71
+552,pocket 8 sector c,16666.67
+553,pratap khand,6209.15
+554,sadh nagar palam colony,3823.53
+555,sandesh vihar,18518.52
+556,sector 108,5624.3
+557,sector 16a dwarka,6269.59
+558,sector 5,8758.77
+559,sector 7,9485.71
+560,sector b pocket 10,1947.62
+561,sector17 rohini,7995.09
+562,shaheen bagh new delhi,4896.42
+563,vrindavan road,4468.12
+564,west enclave,10752.68
+565,yamuna road,10505.63
+566,delhi cantt,527.04
+567,102 sector 21 road,3389.42
+568,127 sector 23 road,13745.7
+569,91 sector 23 road,41.07
+570,abul fazal enclave part 2 new delhi,4555.56
+571,akshardham road,20340.95
+572,antriksh bhawan,3542.37
+573,block jp poorvi pitampura,9988.01
+574,block uu uttari pitampura,7781.65
+575,chirag dilli,3500
+576,commercial shop karol bagh,16650
+577,commonwealth games village,15476.19
+578,e block preet vihar,13263.42
+579,experion heartsong,6303.13
+580,gulabhi bagh om vihar,3600
+581,jammu delhi road,6250
+582,janakpuri b1 market,9444.44
+583,kapas hera extension,1866.67
+584,karampura west,13513.51
+585,kg 2 road,8801.96
+586,lig flats,8819.93
+587,mandakini enclave,16388.89
+588,mandi road,5800
+589,mount kailash apartment,18333.33
+590,narmada apartments,13462.57
+591,netaji subash marg,7826.09
+592,noor nagar,4266.67
+593,partap nagar,5000
+594,paschim vihar a 1 block,8300
+595,pocket 11 sector b,16000
+596,pocket 2 sector d,13365.38
+597,pocket 9 sector c,16666.67
+598,residential flat mehrauli,3370.79
+599,rishi nagar,6222.22
+600,saiyad ul ajaib village,3777.78
+601,salempur majra,18750
+602,sector 1,8674.1
+603,sector 10 pocket 1,7250
+604,sector 12 dwarka pocket 2,8000
+605,sector 21 road,5263.16
+606,sector 30,4603.58
+607,sector4pkt 1,9233.81
+608,shahabad mohammadpur,4266.67
+609,shankar vihar,12306.61
+610,subzi mandi,4784.69
+611,ujwa,4200
+612,10 dwarka sector 9 road,8493.15
+613,103 sector 21 road,9565.22
+614,103 sector road,5136.99
+615,109 sector 21 road,5611.92
+616,119 sector 6 road,4137.93
+617,137 sector 13 main road,6383.95
+618,144 sector b road,2592.59
+619,22 sector 13 main road,12500
+620,4 dwarka sector 9 road,7123.44
+621,4 sector 4 road,11562.5
+622,6 sector 13 main road,8529.41
+623,65 sector road,10255.13
+624,78 sector 6 road,4790.07
+625,88 sector 22 road,4837.43
+626,89 sector 22 road,10500
+627,a block road,11785.71
+628,ahinsa vihar road,4642.86
+629,b4 block,11764.71
+630,baprola,10952.38
+631,bhagat chandra hospital,6800
+632,bhagwati garden extension,4100
+633,bharthal,2285.71
+634,block gh5,7333.33
+635,block ld dakshini pitampura,16666.67
+636,block sd delhi,7588.24
+637,commercial shop indra park,29761.9
+638,d b gupta road,15428.57
+639,d3 street,23333.33
+640,dda flats,18888.89
+641,delhi haridwar road,4363.64
+642,desh bandhu gupta marg,11125
+643,dilshad colony new simapuri,12241.05
+644,durga vihar new delhi,3571.43
+645,dwarka 29 sector,3975.63
+646,dwarka flyover,9714.29
+647,dwarka sec 21,3800
+648,dwarka sec3,8333.33
+649,dwarka sec6 market,8857.14
+650,dwarka sector 12 pocket 6,7500
+651,dwarka sector 23 pocket 1,10584.62
+652,dwarka sector 25,3800
+653,dwarka sector 9 road,9250
+654,epdp colony,7764.71
+655,fajalpur village,11000
+656,gharoli dairy farm,10464.43
+657,godavari apartments,11764.71
+658,goyla vihar,13888.89
+659,grand trunk road,1582.8
+660,ignou road sainik farm,2962.96
+661,inder enclave,10344.83
+662,jagdamba camp,11111.11
+663,kapas hera estate,3200
+664,khanpur dhani,8431.37
+665,khari baoli,4878.05
+666,khari baoli road,2808.4
+667,kondali main,5625
+668,link road ip extension,5483.87
+669,lodhi road quarters,9523.81
+670,mahaveer nagar kotla mubarakpur,24429.97
+671,mahipalpur rangpuri road,2820.51
+672,mahrauli,3518.52
+673,masjid moth phase 2,10769.23
+674,meenakshi garden,12213.74
+675,nangloi saiyed village,5491.7
+676,nathupur road,10000
+677,nelson mandela marg,20000
+678,new govindpura,6666.67
+679,new krishna nagar,5000
+680,new pragatesheel apartment,7586.21
+681,om vihar extn om vihar,4943.75
+682,om vihar phase 4,4750
+683,paryatan vihar,9671.18
+684,pocket 10 sector b,18000
+685,pocket 6 sector 2,12500
+686,pocket 9,16250
+687,pocket 9 sector b,8181.82
+688,pocket a sector 17 dwarka,8181.82
+689,police lines,18181.82
+690,pontoon bridge,80000
+691,prime chowk,8823.53
+692,puth khurd village,3428.57
+693,ram colony chattarpur,5555.56
+694,rampura marg,9259.26
+695,residential flat dharam pura,3259.81
+696,residential flat east of kailash,11555.56
+697,residential flat pocket a,2800
+698,residential flat pocket d,2777.78
+699,residential flat uttam nagar,3777.78
+700,residential floor drayaganj,5149.79
+701,residential floor east ram nagar,5288.16
+702,residential floor om vihar,3442.13
+703,residential floor ram nagar,3790.38
+704,residential floor tilak nagar,4582.82
+705,residential floor uttam nagar,4382.47
+706,residential floorblocka sector,841.24
+707,residential floorpaschim vihar,8131.84
+708,residential house uttam nagar,2812.5
+709,road number 1,6646.97
+710,rocky area,3333.33
+711,sagarpur palam road,22222.22
+712,sec 6 pocket 1,8750
+713,sector 112,3188.01
+714,sector 12 pocket 7,8166.67
+715,sector 13,8750
+716,sector 17,8421.05
+717,sector 18 a,7500
+718,sector 18 rohini,8947.37
+719,sector 18b road,9642.86
+720,sector 21,4200
+721,sector 21 dwarka new delhi,8452.38
+722,sector 23 road,9393.94
+723,sector 25 dwarka,4368.42
+724,sector 37,5241.64
+725,sector b,17142.86
+726,shankar garden,10540.54
+727,sheikh sarai inner lane,16206.9
+728,siddharth enclave,12500
+729,siddhartha enclave,11818.18
+730,siddhartha extension,9200
+731,suraj vihar,5625
+732,sushant vihar,3499.69
+733,telibara,5333.33
+734,timarpur,916.39
+735,v e e r apartments road,8387.1
+736,vasant enclave road,12000
+737,vijay mandal enclave,12500
+738,vikaspuri flyover,7222.22
